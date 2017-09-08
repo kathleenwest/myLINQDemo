@@ -35,7 +35,7 @@ Here is some sample XML
 			</nutrients>
 		</food>
 		</foods>
-</reports>
+</report>
 ```
 
 Goal: I want to query by food attribute name (example: beer) and get only the nutrient listing for that item that I want to see (ex: sugar). So give me the list of food items that have beer in the name and what their sugar value is.
