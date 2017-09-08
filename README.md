@@ -18,13 +18,11 @@ Application: myLINQDemo_APP.zip
 Visual Studio Solution: myLINQDemo_VSS.zip 
 
 Need LINQ code to Query XML file ?
-=====================================
- :geek:  :geek: Solution :geek:  :geek: 
 
-=====================================
+Solution 
+
 Here is some sample XML
 
-[code]
 <report sr="28" groups="All groups" subset="All foods" end="150" start="0" total="8489">
 	<foods>
 		<food ndbno="09427" name="Abiyuch, raw" weight="114.0" measure="0.5 cup">
@@ -37,13 +35,12 @@ Here is some sample XML
 		</food>
 		</foods>
 </reports>
-[/code]
-=====================================
+
 Goal: I want to query by food attribute name (example: beer) and get only the nutrient listing for that item that I want to see (ex: sugar). So give me the list of food items that have beer in the name and what their sugar value is.
-=====================================
+
 LINQ Code
 
-[code]
+
        #region SearchLINQ
         private static void SearchLINQ()
         {
@@ -111,11 +108,11 @@ LINQ Code
         #endregion
 
 
-[/code]
-=====================================
+
+
 Screen Output
 
-[code]
+
 Enter a food name (example: Alcohol):
 beer
 Enter a nutrient name (example: Sugar:
@@ -130,8 +127,3 @@ Name: Alcoholic beverage, beer, regular, BUDWEISER, Nutrient: Sugars, total: --
 Name: Alcoholic beverage, malt beer, hard lemonade, Nutrient: Sugars, total: 32.73
 Name: Alcoholic beverages, beer, higher alcohol, Nutrient: Sugars, total: --
 
-[/code]
-=====================================
-Additional Project Reference Here
-
-[url]https://github.com/kathleenwest/myLINQDemo[/url]
