@@ -23,6 +23,7 @@ Solution
 
 Here is some sample XML
 
+<xml>
 <report sr="28" groups="All groups" subset="All foods" end="150" start="0" total="8489">
 	<foods>
 		<food ndbno="09427" name="Abiyuch, raw" weight="114.0" measure="0.5 cup">
@@ -35,6 +36,7 @@ Here is some sample XML
 		</food>
 		</foods>
 </reports>
+</xml>
 
 Goal: I want to query by food attribute name (example: beer) and get only the nutrient listing for that item that I want to see (ex: sugar). So give me the list of food items that have beer in the name and what their sugar value is.
 
