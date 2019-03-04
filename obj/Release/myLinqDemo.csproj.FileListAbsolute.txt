@@ -1,0 +1,26 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myLINQDemo\bin\Release\myLinqDemo.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myLINQDemo\bin\Release\myLinqDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myLINQDemo\bin\Release\myLinqDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myLINQDemo\bin\Release\EntityFramework.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myLINQDemo\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myLINQDemo\bin\Release\EntityFramework.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myLINQDemo\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myLINQDemo\obj\Release\myLinqDemo.Properties.Resources.resources
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myLINQDemo\obj\Release\myLinqDemo.csproj.GenerateResource.Cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myLINQDemo\obj\Release\myLinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myLINQDemo\obj\Release\myLinqDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myLINQDemo\obj\Release\myLinqDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\bin\Release\myLinqDemo.exe.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\bin\Release\myLinqDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\bin\Release\myLinqDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\bin\Release\EntityFramework.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\bin\Release\EntityFramework.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\obj\Release\myLinqDemo.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\obj\Release\myLinqDemo.Properties.Resources.resources
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\obj\Release\myLinqDemo.csproj.GenerateResource.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\obj\Release\myLinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\obj\Release\myLinqDemo.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\obj\Release\myLinqDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLINQDemo\obj\Release\myLinqDemo.pdb
