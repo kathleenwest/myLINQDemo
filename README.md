@@ -1,5 +1,6 @@
 # myLINQDemo
-I released another project to my portfolio http://www.katiegirl.net/projects.htm
+Site Blog Article
+https://portfolio.katiegirl.net/2017/11/09/my-linq-demo-a-simple-windows-console-application/
 
 My LINQ Demo: 
 
